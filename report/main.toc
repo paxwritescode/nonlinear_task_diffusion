@@ -1,0 +1,18 @@
+\selectlanguage *[]{russian}
+\contentsline {section}{\numberline {1}Постановка задачи}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Математическая формулировка}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Физические интерпретации модели}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Корректность модели (по Адамару)}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Существование решения}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Единственность решения}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Устойчивость решения}{5}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Дискретизация задачи}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Корректность дискретной постановки}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Сходимость к точному решению}{6}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Решение конечномерной задачи}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Метод}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Сходимость метода}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Численные результаты и их анализ}{6}{section.5}%
+\contentsline {section}{\numberline {6}Выводы}{6}{section.6}%
+\contentsline {section}{\numberline {7}Список литературы}{6}{section.7}%
+\contentsfinish 
